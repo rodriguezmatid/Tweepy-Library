@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/github/stars/rodriguezmatid/Tweepy-Library?style=social" />
 </div>
 
-A script with commands of the Tweepy-Library
+A script with commands of the Tweepy-Library.
 
 Built using Tweepy, Python and the Twitter API.
 
