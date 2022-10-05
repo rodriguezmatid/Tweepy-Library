@@ -1,4 +1,4 @@
-![](img/header.png "A script with commands of the Tweepy-Library")
+<div align="center">![](img/header.png "A script with commands of the Tweepy-Library")</div>
 
 <div align="center">
 <img src="https://img.shields.io/github/stars/rodriguezmatid/Tweepy-Library?style=social" />
